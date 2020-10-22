@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "commons",
+    "client",
+    "server",
+    "server-cli",
+    "rinku"
+]
